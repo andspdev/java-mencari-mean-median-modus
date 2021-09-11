@@ -53,6 +53,6 @@ Hasil Perhitungan:
 
 <hr/>
 
-Andreas Pandu Pamungkas<br/>
+_Andreas Pandu Pamungkas_<br/>
 Program Java - Mencari Mean, Median, dan Modus<br/>
 Dibuat pada tanggal: 11 September 2021
