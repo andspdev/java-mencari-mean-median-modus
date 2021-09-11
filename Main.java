@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * Program Java - Menghitung Mean, Median, dan Modus
+ * Program Java - Mencari Mean, Median, dan Modus
  * Dari Andreas Pandu Pamungkas
  * Dibuat pada tanggal: 11 September 2021
  *
