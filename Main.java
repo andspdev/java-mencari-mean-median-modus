@@ -25,7 +25,6 @@ public class Main
         // Cek apakah nilai dari input > 0
         if (input > 0)
         {
-
             // Input masing-masing data berdasarkan nilai arraynya
             int[] data =  new int[input];
             for (int i = 0; i < input; i++)
