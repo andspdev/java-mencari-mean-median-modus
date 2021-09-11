@@ -26,10 +26,12 @@ public class Main
         if (input > 0)
         {
             // Input masing-masing data berdasarkan nilai arraynya
+
+            System.out.println("\nMasukkan isi data berupa angka:");
             int[] data =  new int[input];
             for (int i = 0; i < input; i++)
             {
-                System.out.print("- Isi Data ke-" +(i + 1)+ ": ");
+                System.out.print("- Isi Data ke-" +(i + 1)+ " = ");
                 data[i] = scan.nextInt();
             }
 
