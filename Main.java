@@ -37,8 +37,8 @@ public class Main
 
             // Tampilkan hasil perhitungannya -> mean, median dan modus
             System.out.println("\nHasil Perhitungan:");
-            System.out.printf("- Mean\t\t= %.2f%n", mean(data));
-            System.out.printf("- Median\t= %.2f%n", median(data));
+            System.out.printf("- Mean\t\t= %.1f%n", mean(data));
+            System.out.printf("- Median\t= %.1f%n", median(data));
             System.out.printf("- Modus\t\t= %s%n", modus(data, input));
         }
         else
