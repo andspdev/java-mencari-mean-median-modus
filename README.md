@@ -7,7 +7,8 @@ Semisal terdapat data:<br/>
 <br/>
 Maka jika program dijalankan akan seperti ini:
 <br/>
-<br/>
+<hr/>
+
 Masukkan berapa banyak data: **30**
 
 Masukkan isi data berupa angka:
@@ -47,3 +48,9 @@ Hasil Perhitungan:
 - Mean    = **3.9**
 - Median  = **3.5**
 - Modus   = **1**
+
+<hr/>
+
+Andreas Pandu Pamungkas<br/>
+Program Java - Mencari Mean, Median, dan Modus<br/>
+Dibuat pada tanggal: 11 September 2021
